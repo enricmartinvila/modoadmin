@@ -1,0 +1,10 @@
+.cardistry{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.divisor{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}

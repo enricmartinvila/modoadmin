@@ -1,0 +1,15 @@
+.tagpusers{
+    font-size: 2rem;
+    font-weight: 600;
+    color: #1677ff;
+    text-align: center;
+}
+
+.card{
+    margin-left: 50px;
+}
+
+.chart{
+    max-width: 300px;
+    max-height: 300px;
+}

@@ -1,0 +1,24 @@
+.table{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+.divisor{
+    margin: 25px;
+}
+.rotate {
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(1080deg);
+    }
+  }
+  
+  .boton{
+    margin-right: 10px;
+  }
